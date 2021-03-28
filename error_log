@@ -1,0 +1,8 @@
+[16-Feb-2021 12:33:54 UTC] PHP Parse error:  syntax error, unexpected 'version' (T_STRING) in /home/voins1k0e6jq/public_html/index.php on line 152
+[16-Feb-2021 12:35:08 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'jyoti_ayur'@'148.66.136.121' (using password: YES) in /home/voins1k0e6jq/public_html/DB/connection.php on line 2
+[16-Feb-2021 12:35:08 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/voins1k0e6jq/public_html/backend/blog_processes.php on line 56
+[16-Feb-2021 12:35:08 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, array given in /home/voins1k0e6jq/public_html/index.php on line 567
+[16-Feb-2021 12:36:41 UTC] PHP Parse error:  syntax error, unexpected 'version' (T_STRING) in /home/voins1k0e6jq/public_html/index.php on line 152
+[16-Feb-2021 12:36:51 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'jyoti_ayur'@'148.66.136.121' (using password: YES) in /home/voins1k0e6jq/public_html/DB/connection.php on line 2
+[16-Feb-2021 12:36:51 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/voins1k0e6jq/public_html/backend/blog_processes.php on line 56
+[16-Feb-2021 12:36:51 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, array given in /home/voins1k0e6jq/public_html/index.php on line 567

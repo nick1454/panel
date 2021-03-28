@@ -1,0 +1,206 @@
+.default-btn {
+    font-size: 16px;
+    color: #fff;
+    line-height: 1;
+    -webkit-transition: all ease .5s;
+    transition: all ease .5s;
+    text-align: center;
+    background-color: #6F2C91;
+    position: relative;
+    z-index: 1;
+    overflow: hidden;
+    display: inline-table;
+    padding: 15px 40px;
+    border-radius: 4px;
+}
+
+.single-what-we-offer::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 0;
+    background-color: #6F2C91;
+    ;
+    -webkit-transition: all ease .5s;
+    transition: all ease .5s;
+    z-index: -1;
+}
+
+.bg-color {
+    background-color: #6F2C91;
+}
+
+.single-expertises:hover i {
+    background-color: #6F2C91;
+    color: #fff;
+}
+
+
+
+.icon-svg-circle {
+    height: 100px;
+    width: 100px;
+    background-color:#732c91;
+    border-radius: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #FFF;
+    margin: 0 auto 10px;
+}
+
+.icon-svg-circle:hover {
+    background-color:#62bd5e;
+    color: #fff;
+}
+
+
+.default-btn {
+    font-size: 15px;
+    color: #fff;
+    line-height: 1;
+    -webkit-transition: all ease .5s;
+    transition: all ease .5s;
+    text-align: center;
+    background-color: #6F2C91;
+    position: relative;
+    z-index: 1;
+    overflow: hidden;
+    display: inline-table;
+    padding: 11px 19px;
+    border-radius: 4px;
+}
+
+
+@media screen and (min-width: 480px) {
+  .medical-icon {
+       margin-left: 24px;
+    display: flex;
+}
+}
+
+
+.top-header {
+    background-color: #62bd5e;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+.top-header .header-left-content .contact-info li i {
+    color: #732c91;
+    display: inline-block;
+    margin-right: 5px;
+    position: absolute;
+    font-size: 20px;
+    top: -1px;
+    left: 0;
+}
+
+
+@media (max-width: 576px) { 
+  .header-text {
+       font-size: 13px;
+}
+}
+
+@media (max-width: 576px) { 
+   .default-btn{
+ font-size: 12px;
+    color: #fff;
+    line-height: 1;
+    -webkit-transition: all ease .5s;
+    transition: all ease .5s;
+    text-align: center;
+    background-color: #6F2C91;
+    position: relative;
+    z-index: 1;
+    overflow: hidden;
+    display: inline-table;
+    padding: 7px 13px;
+    border-radius: 4px;
+}
+
+}
+
+.get-quote{
+padding-top: 5px;
+
+}
+
+.section-title p {
+    max-width: 1500px;
+    margin: auto;
+    font-weight: 600;
+    color:#000;
+}
+
+.heading-para{
+    background: #62bd5e;
+    padding: 26px;
+    border-radius: 29px;
+    color: rgb(0 0 0);
+}
+.about-content ul li {
+    margin-bottom: 15px;
+    font-weight: 900;
+    font-size: 13px;
+    position: relative;
+    padding-left: 20px;
+}
+.Service-text{
+padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+
+.about-img-content h3 span {
+    color: #6f2c91;
+}
+
+.why-choose-us-content h2 {
+    font-size: 29px;
+    color: #fff;
+    margin-bottom: 40px;
+}
+
+
+
+
+.container-wrapper, .page-title-wrapper {
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+    max-width: 1200px;
+    box-sizing: border-box;
+}
+
+
+.row {
+    margin-left: -10px;
+    margin-right: -10px;
+}
+
+.openning-hours {
+    padding: 20px 0;
+}
+
+
+.why-choose-us-content{
+    padding-top:20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
